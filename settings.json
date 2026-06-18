@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dynamic-10.magmanode.com",
+    "ip": "gold.magmanode.com",
     "port": 25636,
     "version": "1.21.1"
   },
